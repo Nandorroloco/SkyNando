@@ -1,0 +1,22 @@
+Bill of Materials
+
+.- Resistors:
+
+	1x 2k2 1/8w
+	2x 1K 1/8w
+
+.- Capacitors:
+
+	1x 10uF 25v electrolitic
+
+.- Integrated Cirtuits
+
+	1x  78L05  Integrated voltage regulator
+
+.- Miscellaneous
+
+	1x DB9 male connector
+	1x Connector Shell
+	20cm  4 wire cable  (like USB cable)
+	2 1x4 pin sockets and 1x4 pin male.
+	mini-board 8x4 dots from a development board
