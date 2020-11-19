@@ -1,7 +1,7 @@
 # SkyNando
 Dongle for mount control SkyWatcher EQ6/HEQ5
 
-Cheap dongle apdaptations working like EQDIR-BT and SynScan-Wifi
+Cheap dongle apdaptations working like EQDIR-BT or SynScan-Wifi
 
 Contents:
 "/SkyNando/BT version" It's an EQDIR-BT (bluethoot) equivalent
